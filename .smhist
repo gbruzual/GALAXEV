@@ -1,0 +1,66 @@
+data "2bursts_1_1.7physp"
+xc 1
+yc 6
+lim
+conn
+box
+yc 7
+lim
+conn
+yc 8
+lim
+conn
+x11
+data "2bursts_1_10.7physp"
+xc 1
+yc 4
+lim
+conn
+box
+yc 5
+conn
+data "2bursts_1_10.7physp"
+xc 1
+yc 6
+lim
+conn
+box
+history
+vi
+fig1
+vi
+fig1
+vi
+fig2
+fig3
+fig4
+vi
+fig1
+fig2
+fig3
+fig4
+vi
+fig1
+vi
+fig1
+vi
+fig1
+vi
+fig1
+vi
+fig1
+vi
+fig1
+vi
+fig1
+ppf fig1 2
+ppf fig2 2
+ppf fig3 2
+vi
+fig1
+fig2
+fig3
+ppf fig1 2
+ppf fig2 2
+ppf fig3 2
+ppf fig4 2
